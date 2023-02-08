@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pogajoa
-- 👀 I’m interested in Verilog HDL, VHDL, Python, tensorflow
-- 🌱 I’m currently learning verilog, python, tensorflow
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Junpyo Kim.
+- 👀 I’m interested in Deeplearning, 3D Computervision
+- 🌱 I’m currently learning pytorch, tensorflow, python
+- 💞️ I’m looking to collaborate on kuaicv
+- 📫 How to reach me: ogum1945@hanmail.net
 
 <!---
 Pogajoa/Pogajoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
