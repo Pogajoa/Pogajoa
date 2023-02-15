@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Junpyo Kim.
-- 👀 I’m interested in Deeplearning, 3D Computervision
-- 🌱 I’m currently learning pytorch, tensorflow, python
-- 💞️ I’m looking to collaborate on kuaicv
-- 📫 How to reach me: ogum1945@hanmail.net
+## 🥇 Junpyo Kim.
+### 📢  Interested in 3D Computer Vision, Multi-modal
+### ⚡ Now internship in Korea university, kuaicv lab
 
 <!---
 Pogajoa/Pogajoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
