@@ -12,11 +12,11 @@
 ```print('고양이는 너무 귀여워요!')```
 
 ### Example
-![cat](https://github.com/Pogajoa/exam_project/assets/87626122/15e869ee-ee3e-47bc-9cc1-9f8f4097a608)
+![cat]![the-red-or-white-cat-i-on-white-studio](https://github.com/Pogajoa/Iterative-fitting-for-hand-mesh/assets/87626122/1be540f3-82d1-41a6-a8d3-be1d7a7f7753)
 
 ### Reference
 
-Link: [Google](https://kr.freepik.com/premium-photo/british-shorthair-kitten-sitting-and-looking-away_7986801.htm#query=cat&position=5&from_view=keyword&track=sph)
+Link: [Google](https://kr.freepik.com/free-photo/the-red-or-white-cat-i-on-white-studio_9405869.htm#query=cat&position=0&from_view=search&track=sph)
 
 ### Issue
 * Issue 1
