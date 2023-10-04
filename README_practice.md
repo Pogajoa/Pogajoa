@@ -12,7 +12,7 @@
 ```print('고양이는 너무 귀여워요!')```
 
 ### Example
-![cat]![the-red-or-white-cat-i-on-white-studio](https://github.com/Pogajoa/Iterative-fitting-for-hand-mesh/assets/87626122/1be540f3-82d1-41a6-a8d3-be1d7a7f7753)
+![the-red-or-white-cat-i-on-white-studio](https://github.com/Pogajoa/Iterative-fitting-for-hand-mesh/assets/87626122/1be540f3-82d1-41a6-a8d3-be1d7a7f7753)
 
 ### Reference
 
