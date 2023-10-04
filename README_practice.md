@@ -16,7 +16,7 @@
 
 ### Reference
 
-Link: [Google](https://www.google.co.kr/url?sa=i&url=https%3A%2F%2Fkr.freepik.com%2Fphotos%2Fcat&psig=AOvVaw3YhEaBvGFiT1Je0OGP4eag&ust=1696467733529000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCd4PaY24EDFQAAAAAdAAAAABAE)
+Link: [Google](https://kr.freepik.com/premium-photo/british-shorthair-kitten-sitting-and-looking-away_7986801.htm#query=cat&position=5&from_view=keyword&track=sph)
 
 ### Issue
 * Issue 1
