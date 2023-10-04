@@ -16,7 +16,7 @@
 
 ### Reference
 
-Link: [Google](https://www.google.co.kr/urlsa=i&url=https%3A%2F%2Fkr.freepik.com%2Fphotos%2Fcat&psig=AOvVaw1tVuffJwYDPv0fp91MwWhD&ust=1696467450783000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIim7u-X24EDFQAAAAAdAAAAABAE)
+Link: [Google](https://www.google.co.kr/url?sa=i&url=https%3A%2F%2Fkr.freepik.com%2Fphotos%2Fcat&psig=AOvVaw3YhEaBvGFiT1Je0OGP4eag&ust=1696467733529000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCd4PaY24EDFQAAAAAdAAAAABAE)
 
 ### Issue
 * Issue 1
