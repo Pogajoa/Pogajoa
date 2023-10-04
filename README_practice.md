@@ -16,7 +16,7 @@
 
 ### Reference
 
-Link: [Google](https://kr.freepik.com/free-photo/the-red-or-white-cat-i-on-white-studio_9405869.htm#query=cat&position=0&from_view=search&track=sph)
+[크집사 링크](https://kr.freepik.com/free-photo/the-red-or-white-cat-i-on-white-studio_9405869.htm#query=cat&position=0&from_view=search&track=sph)
 
 ### Issue
 * Issue 1
