@@ -1,5 +1,5 @@
 ## 🥇 Junpyo Kim.
-### 📢  Interested in 3D Computer Vision, Multi-modal
+### 📢  Interested in Robotics, SLAM, Computer Vision
 ### ⚡ Internship in Korea university, kuaicv lab(23.01~23.03)
 
 <!---
